@@ -5,4 +5,8 @@
 
      '''git clone https://github.com/MacaulyGoncalves/Teste_crud.git
  
+ <h3> Depois utilizar o comando do React</h3>
  
+     '''npm instal -g create-react-app
+     
+     '''npm start
