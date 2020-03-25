@@ -1,0 +1,46 @@
+.App {                     /* PÁGINA */
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.myForm{                   /* CADASTRO */
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.formField{        
+  font-size: 15px;       /* CADASTRO -- PREENCHIMENTO */
+  width: 100%;
+  padding: 20px 20px;
+  margin: 5px 0;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.myButton{               /* BOTÃO SUBMIT */
+  color: black;
+  font-size: 20px;
+  padding: 20px 60px;
+  margin: 8px 0;
+  border: black;
+  border-color: black;
+}
+
+.myList{                /* CONTEÚDO DA LISTA */
+  font-size: 20px;
+  list-style: none;
+  text-align: justify;
+}
+
+.myListButton{          /* BOTÕES DA LISTA */
+  font-size: 20px;
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 20px;
+  border: 1px solid black;
+  margin: 10px 5px;
+}
+
